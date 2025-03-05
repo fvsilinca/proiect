@@ -1,2 +1,2 @@
 # proiect liceu
-Candle Shop websote using HTML, CSS and JavaScript
+Candle Shop website using HTML, CSS and JavaScript
